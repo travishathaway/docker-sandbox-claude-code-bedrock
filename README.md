@@ -34,7 +34,7 @@ Create `~/.claude/settings.json`:
     "CLAUDE_CODE_USE_BEDROCK": "1",
     "AWS_PROFILE": "your-aws-profile",
     "AWS_REGION": "us-east-1",
-    "ANTHROPIC_MODEL": "us.anthropic.claude-sonnet-4-5-20251101-v1:0"
+    "ANTHROPIC_MODEL": "us.anthropic.claude-sonnet-4-6"
   }
 }
 ```
